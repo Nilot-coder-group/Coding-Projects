@@ -1,0 +1,6 @@
+/mnt/Storage_Drive/Dev Projects/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/mnt/Storage_Drive/Dev Projects/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/mnt/Storage_Drive/Dev Projects/C#/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csprojAssemblyReference.cache
+/mnt/Storage_Drive/Dev Projects/C#/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/mnt/Storage_Drive/Dev Projects/C#/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/mnt/Storage_Drive/Dev Projects/C#/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb

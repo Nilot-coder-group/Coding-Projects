@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DCC49C07-E379-4E04-8414-D6EC3788EFED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Console_Color_Change/Program.cs">
+    <Files>
+      <File FileName="Console_Color_Change/Program.cs" Line="8" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.ItemProperties.Console__Color__Change PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

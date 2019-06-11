@@ -1,0 +1,3 @@
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/bin/Release/Console_Color_Change.exe
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/obj/x86/Release/Console_Color_Change.csproj.CoreCompileInputs.cache
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/obj/x86/Release/Console_Color_Change.exe
