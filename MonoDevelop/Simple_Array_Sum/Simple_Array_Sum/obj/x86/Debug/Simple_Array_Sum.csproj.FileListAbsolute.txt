@@ -1,0 +1,6 @@
+/mnt/Work_Drive/Dev Projects/MonoDevelop/Simple_Array_Sum/Simple_Array_Sum/bin/Debug/Simple_Array_Sum.exe
+/mnt/Work_Drive/Dev Projects/MonoDevelop/Simple_Array_Sum/Simple_Array_Sum/bin/Debug/Simple_Array_Sum.pdb
+/mnt/Work_Drive/Dev Projects/MonoDevelop/Simple_Array_Sum/Simple_Array_Sum/obj/x86/Debug/Simple_Array_Sum.csprojAssemblyReference.cache
+/mnt/Work_Drive/Dev Projects/MonoDevelop/Simple_Array_Sum/Simple_Array_Sum/obj/x86/Debug/Simple_Array_Sum.csproj.CoreCompileInputs.cache
+/mnt/Work_Drive/Dev Projects/MonoDevelop/Simple_Array_Sum/Simple_Array_Sum/obj/x86/Debug/Simple_Array_Sum.exe
+/mnt/Work_Drive/Dev Projects/MonoDevelop/Simple_Array_Sum/Simple_Array_Sum/obj/x86/Debug/Simple_Array_Sum.pdb

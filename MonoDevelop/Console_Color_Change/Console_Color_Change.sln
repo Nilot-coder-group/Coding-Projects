@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_Color_Change", "Console_Color_Change\Console_Color_Change.csproj", "{DCC49C07-E379-4E04-8414-D6EC3788EFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC49C07-E379-4E04-8414-D6EC3788EFED}.Debug|x86.ActiveCfg = Debug|x86
+		{DCC49C07-E379-4E04-8414-D6EC3788EFED}.Debug|x86.Build.0 = Debug|x86
+		{DCC49C07-E379-4E04-8414-D6EC3788EFED}.Release|x86.ActiveCfg = Release|x86
+		{DCC49C07-E379-4E04-8414-D6EC3788EFED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+/mnt/Work_Drive/Dev Projects/MonoDevelop/HelloWorld2.0/HelloWorld2.0/obj/x86/Debug/HelloWorld2.0.csprojAssemblyReference.cache
+/mnt/Work_Drive/Dev Projects/MonoDevelop/HelloWorld2.0/HelloWorld2.0/obj/x86/Debug/HelloWorld2.0.csproj.CoreCompileInputs.cache
+/mnt/Work_Drive/Dev Projects/MonoDevelop/HelloWorld2.0/HelloWorld2.0/bin/Debug/HelloWorld2.0.exe
+/mnt/Work_Drive/Dev Projects/MonoDevelop/HelloWorld2.0/HelloWorld2.0/bin/Debug/HelloWorld2.0.pdb
+/mnt/Work_Drive/Dev Projects/MonoDevelop/HelloWorld2.0/HelloWorld2.0/obj/x86/Debug/HelloWorld2.0.exe
+/mnt/Work_Drive/Dev Projects/MonoDevelop/HelloWorld2.0/HelloWorld2.0/obj/x86/Debug/HelloWorld2.0.pdb

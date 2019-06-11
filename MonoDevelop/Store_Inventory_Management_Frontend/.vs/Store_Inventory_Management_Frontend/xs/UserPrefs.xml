@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{74ACAEF8-CD0C-467C-999E-C208B945417E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Store__Inventory__Management__Frontend PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../home/nilot/exercism/csharp/two-fer/TwoFer.cs">
+    <Files>
+      <File FileName="../../../../../home/nilot/Desktop/Link to exercism/csharp/two-fer/TwoFer.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Store_Inventory_Management_Frontend" expanded="True">
+            <Node name="Store_Inventory_Management_Frontend" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

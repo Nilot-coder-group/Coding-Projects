@@ -1,0 +1,6 @@
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/obj/x86/Debug/Console_Color_Change.csprojAssemblyReference.cache
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/obj/x86/Debug/Console_Color_Change.csproj.CoreCompileInputs.cache
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/bin/Debug/Console_Color_Change.exe
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/bin/Debug/Console_Color_Change.pdb
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/obj/x86/Debug/Console_Color_Change.exe
+/mnt/Storage_Drive/Dev Projects/Console_Color_Change/Console_Color_Change/obj/x86/Debug/Console_Color_Change.pdb
